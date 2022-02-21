@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SubmitForm/static/css/main.6cfbca53.css",
+    "main.js": "/SubmitForm/static/js/main.fcc1c493.js",
+    "index.html": "/SubmitForm/index.html",
+    "main.6cfbca53.css.map": "/SubmitForm/static/css/main.6cfbca53.css.map",
+    "main.fcc1c493.js.map": "/SubmitForm/static/js/main.fcc1c493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cfbca53.css",
+    "static/js/main.fcc1c493.js"
+  ]
+}
